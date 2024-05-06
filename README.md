@@ -9,3 +9,4 @@ What will you find in this repo:
 - Classifications algorithms considered
 - Hyperparameter tuning
 - Compare the best models
+- Predict survival of Titanic passengers
