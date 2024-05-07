@@ -10,3 +10,5 @@ What will you find in this repo:
 - Hyperparameter tuning
 - Compare the best models
 - Predict survival of Titanic passengers
+
+_Note: this was a collaborative task with three other peers in the inernational BABD master @ POLIMI General School of Management._
