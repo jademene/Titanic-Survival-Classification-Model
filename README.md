@@ -9,6 +9,6 @@ What will you find in this repo:
 - Classifications algorithms considered
 - Hyperparameter tuning
 - Compare the best models
-- Predict survival of Titanic passengers
+- Predict the survival of Titanic passengers
 
-_Note: this was a collaborative task with three other peers in the inernational BABD master @ POLIMI General School of Management._
+_Note: this was a collaborative task with three other peers in the international BABD master @ POLIMI General School of Management._
